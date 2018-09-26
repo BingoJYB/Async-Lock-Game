@@ -1,4 +1,4 @@
-# Async-Lock-Game
+# Shipment-Game
 
 ## Background:
 The `ShipmentUpdateListenerInterface` will get updates passed to it (from some external system, REST interface, Queue system or something similar). It has to update the `ShipmentSearchIndex` with the new data of the shipment.
